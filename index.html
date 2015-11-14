@@ -21,4 +21,15 @@ layout: default
         </ul>
     </article>
 
+    <h2>料理</h2>
+    <article class="post">
+        <ul>
+        {% for post in site.categories.cooking %}
+          <li><a href="{{ site.baseurl }}{{ post.url }}">[{{ post.date | date: "%Y/%m/%d" }}] {{ post.title }} </a></li>
+        {% endfor %}
+        </ul>
+    </article>
+
+
+
 </div>
