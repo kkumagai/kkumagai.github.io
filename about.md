@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### 学生まで
 
-### More Information
+- 北海道生まれ
+- 大学では金融工学を研究 [論文](http://link.springer.com/chapter/10.1007/978-3-642-20009-0_21#page-1)
 
-A place to include any other types of information that you'd like to include about yourself.
 
-### Contact me
+### 現在
 
-[email@domain.com](mailto:email@domain.com)
+- 経営コンサルタント(2011-)

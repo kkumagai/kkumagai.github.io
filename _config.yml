@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: kkuma
+name: kkumagai.github.io
 
 # Short bio or description (displayed in the header)
 description: 2ch(大学受験板)とAmazonを駆使して大学受験を突破し05年に北海道滝川市から上京。確率統計やオペレーションズリサーチを学んで修士号を取得し、アナリティクスもコーディングもドンと来いな経営戦略コンサルタントを目指して日々精進してます。
@@ -17,12 +17,12 @@ avatar: https://pbs.twimg.com/profile_images/92837604/20090312-00752.jpg
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: kumagai.k@gmail.com
   facebook:
   flickr:
   github: kkumagai
   instagram:
-  linkedin:
+  linkedin: 和俊-熊谷-a46b8862
   pinterest:
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter: kkuma
