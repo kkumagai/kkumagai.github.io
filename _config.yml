@@ -3,15 +3,14 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: kkuma
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: 2ch(大学受験板)とAmazonを駆使して大学受験を突破し05年に北海道滝川市から上京。確率統計やオペレーションズリサーチを学んで修士号を取得し、アナリティクスもコーディングもドンと来いな経営戦略コンサルタントを目指して日々精進してます。
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://pbs.twimg.com/profile_images/92837604/20090312-00752.jpg
 
-#
 # Flags below are optional
 #
 
@@ -21,12 +20,12 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: kkumagai
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
-  twitter: jekyllrb
+  twitter: kkuma
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
