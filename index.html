@@ -6,14 +6,19 @@ layout: default
   	<h2>読書</h2>
     <article class="post">
     	<ul>
-    	{% for post in site.posts %}
+    	{% for post in site.categories.book %}
 	      <li><a href="{{ site.baseurl }}{{ post.url }}">[{{ post.date | date: "%Y/%m/%d" }}] {{ post.title }} </a></li>
-	    {% endfor %}
+        {% endfor %}
 	    </ul>
     </article>
   
     <h2>Python</h2>
-    	<ul>
-    		<li><a href="http://www.github.com/kkumagai/analytics_with_python">Githubにて、勉強状況を公開しています。</a></li>
-    	</ul>
+    <article class="post">
+        <ul>
+        {% for post in site.categories.python %}
+          <li><a href="{{ site.baseurl }}{{ post.url }}">[{{ post.date | date: "%Y/%m/%d" }}] {{ post.title }} </a></li>
+        {% endfor %}
+        </ul>
+    </article>
+
 </div>

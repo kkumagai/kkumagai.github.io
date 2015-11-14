@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "ジェフ・ベゾス 果てなき野望-アマゾンを創った無敵の奇才経営者"
-tags: aaaa
+category: book
 published: true
+book_id: B00H3WR470
 ---
 
 ## 読んだ本
