@@ -6,9 +6,7 @@ published: true
 book_id: B00H3WR470
 ---
 
-## 読んだ本
-
-[Amazon.co.jp: ジェフ・ベゾス 果てなき野望-アマゾンを創った無敵の奇才経営者 電子書籍: ブラッド・ストーン, 井口耕二, 滑川海彦: Kindleストア](http://www.amazon.co.jp/dp/B00H3WR470/)
+# [![](http://images.amazon.com/images/P/B00H3WR470.01_SL110_.jpg)](http://www.amazon.co.jp/dp/B00H3WR470)
 
 ## 感想
 
