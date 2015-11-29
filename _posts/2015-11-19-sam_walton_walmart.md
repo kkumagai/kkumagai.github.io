@@ -7,7 +7,7 @@ published: true
 book_id: 406256677X
 ---
 
-# [![](http://images.amazon.com/images/P/406256677X.01_SL110_.jpg)](http://www.amazon.co.jp/dp/406256677X)
+# [![](http://images.amazon.com/images/P/{{page.book_id}}.01_SL110_.jpg)](http://www.amazon.co.jp/exec/obidos/ASIN/{{page.book_id}}/kkuma-22/)
 
 
 ## 手にとった背景

@@ -7,7 +7,7 @@ published: true
 book_id: B00H3WR470
 ---
 
-# [![](http://images.amazon.com/images/P/B00H3WR470.01_SL110_.jpg)](http://www.amazon.co.jp/dp/B00H3WR470)
+# [![](http://images.amazon.com/images/P/{{page.book_id}}.01_SL110_.jpg)](http://www.amazon.co.jp/exec/obidos/ASIN/{{page.book_id}}/kkuma-22/)
 
 ## 感想
 
