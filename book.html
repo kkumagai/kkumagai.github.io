@@ -1,0 +1,16 @@
+---
+layout: page
+title: Book
+permalink: /book/
+---
+
+<article class="post">
+	<ul>
+	{% for post in site.categories.book %}
+      	<a href="{{ site.baseurl }}{{ post.url }}">
+      		<img src="http://images.amazon.com/images/P/{{post.book_id}}.01_SL75_.jpg" alt="{{post.title}}" height="150px">      
+      		<!-- [{{ post.date | date: "%Y/%m/%d" }}] {{ post.title }}  -->
+      	</a>
+    {% endfor %}
+    </ul>
+</article>
