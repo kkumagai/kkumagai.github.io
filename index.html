@@ -3,23 +3,34 @@ layout: default
 ---
 
 <div class="posts">
-  	<h2>読書</h2>
-    <article class="post">
-    	<ul>
-    	{% for post in site.categories.book %}
-            <li>
-                [{{ post.date | date: "%Y/%m/%d" }}] {{ post.title }}
-                {% if post.review != false %}
-                    <a href="{{ site.baseurl }}{{ post.url }}">Review</a> 
-                {% endif %}
-                    <a href="http://www.amazon.co.jp/dp/{{post.book_id}}">Amazon</a>
-            </li>
-            
-        {% endfor %}
-	    </ul>
-    </article>
+<!--   	<h2>読書</h2> -->
+    <div class="book_container">
+        <article class="post">
+        	{% for post in site.categories.book %}
+                <div class="book">
+                    <!-- <div>{{ post.date | date: "%Y/%m/%d" }}</div> -->
+                    <!-- {{ post.title }} -->
+                    {% if post.review != false %}
+                        <a href="{{ site.baseurl }}{{ post.url }}">
+                    {% else %}
+                        <a href="http://www.amazon.co.jp/dp/{{post.book_id}}">
+                    {% endif %}                    
+                    <img class="book_img" src="http://images.amazon.com/images/P/{{post.book_id}}.01_SL75_.jpg" alt="{{post.title}}">
+                    </a>
+                    <br>
+                    {% if post.review == true %}
+                        <a href="{{ site.baseurl }}{{ post.url }}">memo</a> 
+                    {% endif %}
+                        <a href="http://www.amazon.co.jp/dp/{{post.book_id}}">Amazon</a>
+                </div>
+                
+            {% endfor %}
+            <div class="clear"></div>
+        </article>
+    </div>
+
   
-    <h2>Python</h2>
+<!--     <h2>Python</h2>
     <article class="post">
         <ul>
         {% for post in site.categories.python %}
@@ -36,7 +47,7 @@ layout: default
         {% endfor %}
         </ul>
     </article>
-
+ -->
 
 
 </div>

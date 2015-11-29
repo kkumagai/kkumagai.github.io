@@ -155,6 +155,29 @@ img {
 // .masthead
 //
 
+.book_container{
+  text-align: center;
+}
+
+.book{
+  width: 170px;
+  height: 250px;
+  border:0px solid lightgray;
+  margin: 1px;
+  padding: 10px;
+  text-align: center;
+  float: left;
+}
+
+img.book_img{
+  text-align: center;
+  height: 220px;
+}
+
+div.clear{
+  clear:left;
+}
+
 .wrapper-masthead {
   margin-bottom: 50px;
 }

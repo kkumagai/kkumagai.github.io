@@ -2,6 +2,7 @@
 layout: post
 title: "私のウォルマート商法 すべて小さく考えよ"
 category: book
+review: true
 published: true
 book_id: 406256677X
 ---
