@@ -3,7 +3,17 @@ layout: default
 ---
 
 <div class="posts">
-<!--   	<h2>読書</h2> -->
+    <h2>Blog</h2>
+    <article class="post">
+        <ul>
+        {% for post in site.categories.blog %}
+          <li><a href="{{ site.baseurl }}{{ post.url }}">[{{ post.date | date: "%Y/%m/%d" }}] {{ post.title }} </a></li>
+        {% endfor %}
+        </ul>
+    </article>
+
+
+  	<h2>読書</h2>
     <div class="book_container">
         <article class="post">
         	{% for post in site.categories.book %}
@@ -28,26 +38,4 @@ layout: default
             <div class="clear"></div>
         </article>
     </div>
-
-  
-<!--     <h2>Python</h2>
-    <article class="post">
-        <ul>
-        {% for post in site.categories.python %}
-          <li><a href="{{ site.baseurl }}{{ post.url }}">[{{ post.date | date: "%Y/%m/%d" }}] {{ post.title }} </a></li>
-        {% endfor %}
-        </ul>
-    </article>
-
-    <h2>料理</h2>
-    <article class="post">
-        <ul>
-        {% for post in site.categories.cooking %}
-          <li><a href="{{ site.baseurl }}{{ post.url }}">[{{ post.date | date: "%Y/%m/%d" }}] {{ post.title }} </a></li>
-        {% endfor %}
-        </ul>
-    </article>
- -->
-
-
 </div>
