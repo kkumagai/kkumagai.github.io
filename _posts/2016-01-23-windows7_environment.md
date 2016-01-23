@@ -2,7 +2,7 @@
 layout: post
 title: "会社PC更新時に行ったWindows7環境構築メモ"
 category: blog
-published: false
+published: true
 ---
 
 先日会社PCを変更し、久しぶりにWindows環境を再構築したのでメモ。
