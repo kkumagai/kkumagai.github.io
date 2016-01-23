@@ -18,7 +18,7 @@ published: true
     - Win + H/: を Home/Endに
     - Win + A を右クリックに
     - F1キーを無効にする
-- [CapsLockをCtrlに](http://www.forest.impress.co.jp/library/software/changekey/download_10668.html)
+- [CapsLockをCtrlに](http://www.forest.impress.co.jp/library/software/changekey/)
 - Ctrl+SpaceをIMEのON/OFFに（Google日本語入力より設定）
 
 # ソフトインストール
