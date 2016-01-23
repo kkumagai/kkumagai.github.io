@@ -46,7 +46,7 @@ IMEでいいかなと思って2,3日使ってみたけれど、変換・圧縮�
     - Convert to UTF8
     - trailing spaces
 
-## メモ: [Boostnote公式サイト](https://b00st.io/jp/)
+## メモ: [Boostnote](https://b00st.io/jp/)
 年明けあたりから急に話題になっているソフト。[プログラマのための"和製"メモ帳Boostnoteをつかってみた！設定法や使用法についての記載あり！ - プログラミング向上雑記](http://niisi.hatenablog.jp/entry/2016/01/12/220000)
 
 仕事柄、議事メモとか資料作成の骨子をどうしようかな？とメモを取る機会は結構あり、Evernoteにはじまり、SimplenoteやResophnoteなど、いろいろなメモアプリを試してみたけど、これはというものがなく結局いつもSublimeTextに戻ってましたが、PC交換してから使い始めたBoostnoteは圧倒的にしっくり来ているので定番化しそう。
