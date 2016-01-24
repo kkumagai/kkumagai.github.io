@@ -8,6 +8,8 @@ layout: default
         <ul>
         {% for post in site.categories.blog %}
           <li><a href="{{ site.baseurl }}{{ post.url }}">[{{ post.date | date: "%Y/%m/%d" }}] {{ post.title }} </a></li>
+                <p>{{ post.content | strip_html | truncatewords:10}} <a href="{{ post.url }}">Read more...</a><br><br></p>
+                
         {% endfor %}
         </ul>
     </article>
