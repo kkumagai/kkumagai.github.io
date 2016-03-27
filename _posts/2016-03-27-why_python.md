@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ビジネスデータ分析をEXCELからPythonに変更してわかった多くのメリット"
+title: "ビジネスデータ分析をEXCELからPython中心に変更してわかった多くのメリット"
 category: blog
 published: true
 ---
