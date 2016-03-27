@@ -6,7 +6,7 @@
 name: Geek in a suit
 
 # Short bio or description (displayed in the header)
-# description: 2ch(大学受験板)とAmazonを駆使して大学受験を突破し05年に北海道滝川市から上京。確率統計やオペレーションズリサーチを学んで修士号を取得し、アナリティクスもコーディングもドンと来いな経営戦略コンサルタントを目指して日々精進してます。
+description: とある経営コンサルタントの産地直送Tech Blog
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 # avatar: https://pbs.twimg.com/profile_images/92837604/20090312-00752.jpg
@@ -18,11 +18,11 @@ name: Geek in a suit
 footer-links:
   dribbble:
   email: kumagai.k@gmail.com
-  facebook: kumagai.k
+  facebook:
   flickr:
   github: kkumagai
   instagram:
-  linkedin: 和俊-熊谷-a46b8862
+  linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter: kkuma
@@ -53,6 +53,8 @@ baseurl: ""
 #
 
 markdown: redcarpet
+redcarpet:
+  extensions: [tables, footnotes]
 highlighter: pygments
 permalink: /:title/
 
