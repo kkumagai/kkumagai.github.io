@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pythonによる定型データ処理・レポート業務の自動化を進め方と必要なパッケージ(非IT部門向け)"
+title: "Pythonによる定型データ処理・レポート業務の自動化の進め方と必要なパッケージ(非IT部門向け)"
 category: blog
 published: true
 ---
