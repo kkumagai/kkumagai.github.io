@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows PC と Pythonで定型レポート作成・配信業務を自動化する方法と必要なパッケージ(非IT部門向け)"
+title: "会社支給のWindows PC と Pythonで定型レポート作成・配信業務を自動化する方法と必要なパッケージ(非IT部門向け)"
 category: blog
 published: true
 ---
