@@ -6,7 +6,7 @@
 name: Geek in a suit
 
 # Short bio or description (displayed in the header)
-description: とある経営コンサルタントの産地直送Tech Blog
+description: とある経営コンサルタントの産地直送Tech Blog → 転職してコンサルでなければスーツも着ていません。技術職でもないけれど、テクノロジーは好き。
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 # avatar: https://pbs.twimg.com/profile_images/92837604/20090312-00752.jpg
@@ -20,12 +20,12 @@ footer-links:
   email: kumagai.k@gmail.com
   facebook:
   flickr:
-  github: kkumagai
+  github:
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
-  twitter: kkuma
+  twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
